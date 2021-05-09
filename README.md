@@ -19,6 +19,6 @@
     >npm install ejs
 
 5. Start the server using __command prompt (Windows) or hyper terminal (Mac):__
-    > Node app.js
+    > node app.js
 7. Go to your browser and enter: __localhost:3000__
 8. Enjoy!!
